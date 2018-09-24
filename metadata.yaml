@@ -1,5 +1,8 @@
 _repo: The-Fern-Bulletin-October-1903-A-Quarterly-Devoted-to-Ferns_56959
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56959-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '49101'
     url: http://www.gutenberg.org/2009/agents/49101
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56959#The-Fern-Bulletin-October-1903-A-Quarterly-Devoted-to-Ferns
 gutenberg_issued: '2018-04-11'
 gutenberg_type: Text
 identifiers:
