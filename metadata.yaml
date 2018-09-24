@@ -1,0 +1,27 @@
+_repo: The-Fern-Bulletin-October-1903-A-Quarterly-Devoted-to-Ferns_56959
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Clute, Willard N.
+    gutenberg_agent_id: '49101'
+    url: http://www.gutenberg.org/2009/agents/49101
+description: ''
+gutenberg_issued: '2018-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56959'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Fern Bulletin, October 1903
+
+  A Quarterly Devoted to Ferns'
+url: http://www.gutenberg.org/ebooks/56959
